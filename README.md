@@ -1,2 +1,2 @@
-# MLOps-Loan-Eligibility-Pipeline-on-GCP
+# MLOps-Loan-Eligibility-Pipeline/Deployment-on-GCP
 load eligibility model deployed 
